@@ -1,0 +1,19 @@
+.simple {
+    background-color: #ffc0cb;
+    font-family: "Verdana" sans-serif;
+}
+
+.simple.cool {
+    font-size: 24px;
+}
+
+#blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #90ee90; 
+    font-weight: bold;
+    font-size: 24px;
+}
